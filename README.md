@@ -1,4 +1,4 @@
-# Abstract Data Types
+## Abstract Data Types
 
 01. Singly Linked List
 02. Doubly Linked List
@@ -17,6 +17,6 @@
 15. HashMaps (Advanced implementation)
 16. HashSet (Advanced implementation)
 
-# Fun ideas
+### Fun ideas
 
 Will add something if i get any ideas...
