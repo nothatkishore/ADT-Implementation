@@ -1,5 +1,7 @@
 ## Abstract Data Types
 
+These are data types that are made by we programmers to do stuffs more efficiently
+
 01. Singly Linked List
 02. Doubly Linked List
 03. Stack
@@ -17,6 +19,3 @@
 15. HashMaps (Advanced implementation)
 16. HashSet (Advanced implementation)
 
-### Fun ideas
-
-Will add something if i get any ideas...
