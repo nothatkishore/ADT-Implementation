@@ -10,12 +10,13 @@ These are data types that are made by we programmers to do stuffs more efficient
 06. HashSets (Basic implementation)
 07. Binary Search Trees
 08. AVL Trees
-09. Directed and Weighted Graphs
-10. Priority Queue
+09. Segment Trees
+10. Directed and Weighted Graphs
 11. Tries
-12. Double ended queue
-13. Skip lists
-14. Bloom filter 
-15. HashMaps (Advanced implementation)
-16. HashSet (Advanced implementation)
+12. Priority Queue
+13. Double ended queue
+14. Skip lists
+15. Bloom filter 
+16. HashMaps (Advanced implementation)
+17. HashSet (Advanced implementation)
 
