@@ -1,3 +1,5 @@
+#Revise BST in array form before practicing segment trees
+
 class segment_tree:
     def __init__(self, nums) -> None:
         self.length = len(nums)
